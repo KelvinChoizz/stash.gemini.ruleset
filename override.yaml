@@ -1,0 +1,7 @@
+rules:
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com,AI
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,AI
+  - DOMAIN,ai.google.dev,AI
+  - DOMAIN,bard.google.com,AI
+  - DOMAIN,gemini.google.com,AI
