@@ -14,3 +14,4 @@ rules:
   - DOMAIN,gemini.google.com,AI
   - DOMAIN-KEYWORD,notebooklm.google,AI
   - DOMAIN-KEYWORD,labs.google,AI
+  - DOMAIN-SUFFIX,paramountplus.com,HBO
