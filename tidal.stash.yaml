@@ -1,5 +1,4 @@
 rules:
-- PROCESS-NAME,TIDAL,DIRECT
 - DOMAIN-SUFFIX,tidal.com,DIRECT
 - DOMAIN-SUFFIX,tidalhifi.com,DIRECT
 - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,DIRECT
