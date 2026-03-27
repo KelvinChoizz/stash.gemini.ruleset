@@ -1,5 +1,6 @@
 rules:
-- DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,Spotify
-- DOMAIN-SUFFIX,tidal.com,Spotify
-- DOMAIN-SUFFIX,tidalhifi.com,Spotify
-- DOMAIN-SUFFIX,wimpmusic.com,Spotify
+- PROCESS-NAME,TIDAL,DIRECT
+- DOMAIN-SUFFIX,tidal.com,DIRECT
+- DOMAIN-SUFFIX,tidalhifi.com,DIRECT
+- DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,DIRECT
+- DOMAIN-SUFFIX,wimpmusic.com,DIRECT
