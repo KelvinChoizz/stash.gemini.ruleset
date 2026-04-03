@@ -6,37 +6,31 @@ tiles:
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/chatgpt.png
     collapsed: true
     url: https://chatgpt.com
-
 - name: Gemini-Check
     title: Gemini
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/google.png
     collapsed: true
     url: https://gemini.google.com
-
 - name: Google-Check
     title: Google
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/google.png
     collapsed: true
     url: https://www.google.com
-
 - name: YouTube-Check
     title: YouTube
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/youtube.png
     collapsed: true
     url: https://www.youtube.com
-
 - name: Netflix-Check
     title: Netflix
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/netflix.png
     collapsed: true
     url: https://www.netflix.com
-
 - name: Disney-Check
     title: Disney+
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/disney.png
     collapsed: true
     url: https://www.disneyplus.com
-
 - name: Spotify-Check
     title: Spotify
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/spotify.png
@@ -44,31 +38,24 @@ tiles:
     url: https://www.spotify.com
 
 script-providers:
-
-- ChatGPT-Web-Check:
+ ChatGPT-Web-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/chatgpt-web.js
     interval: 86400
-
-- Gemini-Check:
+ Gemini-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/google.js
     interval: 86400
-
-- Google-Check:
+ Google-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/google.js
     interval: 86400
-
-- YouTube-Check:
+ YouTube-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/youtube.js
     interval: 86400
-
-- Netflix-Check:
+ Netflix-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/netflix.js
     interval: 86400
-
-- Disney-Check:
+ Disney-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/disneyplus.js
     interval: 86400
-
-- Spotify-Check:
+ Spotify-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/spotify.js
     interval: 86400
