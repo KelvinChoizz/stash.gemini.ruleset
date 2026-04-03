@@ -1,0 +1,16 @@
+name: Gemini Override
+
+rules:
+- DOMAIN,ai.google.dev,AI
+- DOMAIN,alkalimakersuite-pa.clients6.google.com,AI
+- DOMAIN,makersuite.google.com,AI
+- DOMAIN-SUFFIX,bard.google.com,AI
+- DOMAIN-SUFFIX,deepmind.com,AI
+- DOMAIN-SUFFIX,deepmind.google,AI
+- DOMAIN-SUFFIX,gemini.google.com,AI
+- DOMAIN-SUFFIX,generativeai.google,AI
+- DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
+- DOMAIN-SUFFIX,apis.google.com,AI
+- DOMAIN-KEYWORD,colab,AI
+- DOMAIN-KEYWORD,developerprofiles,AI
+- DOMAIN-KEYWORD,generativelanguage,AI
