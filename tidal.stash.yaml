@@ -1,3 +1,4 @@
+Names: Tidal Override
 rules:
 - DOMAIN-SUFFIX,tidal.com,DIRECT
 - DOMAIN-SUFFIX,tidalhifi.com,DIRECT
